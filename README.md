@@ -111,7 +111,7 @@ void loop() {
 }
 ```
 ## Imagem do projeto
-
+![Sprint-Edge-01](https://github.com/aarthurbf/sprint01edgecomputing/assets/161460625/e50bd7c7-a3b7-4d80-8a7e-8e6d8b794aa4)
 
 ## Conclusão
 Este projeto demonstra como controlar um motor DC usando Arduino e um potenciômetro. Ele fornece uma base sólida para projetos mais complexos que envolvem controle de motores. Se enfrentar problemas, verifique todas as conexões e certifique-se de que todos os componentes estão funcionando corretamente.
