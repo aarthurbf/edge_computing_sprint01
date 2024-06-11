@@ -6,7 +6,7 @@
 https://www.tinkercad.com/things/lCBqMpOEObr-sprint-edge-01?sharecode=5zCs_j3GMQ3i6v7E0-F2AfI-rP3lcan5eW0UBrxjgww
 
 ## Link para o vídeo:
-
+https://youtu.be/iUjLSnSC4PY
 
 ## Descrição do Projeto
 
